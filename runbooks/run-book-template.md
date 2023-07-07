@@ -9,7 +9,7 @@ Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) !
 
 ## Service or system overview
 
-**Service or system name:** 
+**Service or system name:**
 
 ### Business overview
 
@@ -284,19 +284,19 @@ _(e.g. Server clocks all set to UTC+0. All date/time data converted to UTC with 
 
 ### Data cleardown
 
-> Which data needs to be cleared down? How often? Which tools or scripts control cleardown? 
+> Which data needs to be cleared down? How often? Which tools or scripts control cleardown?
 
 _(e.g. Use `abc-cleardown.ps1` run nightly to clear down the document cache)_
- 
+
 ### Log rotation
 
-> Is log rotation needed? How is it controlled? 
+> Is log rotation needed? How is it controlled?
 
 _(e.g. The Windows Event Log *ABC Service* is set to a maximum size of 512MB)_
 
 ## Failover and Recovery procedures
 
-> What needs to happen when parts of the system are failed over to standby systems? What needs to during recovery? 
+> What needs to happen when parts of the system are failed over to standby systems? What needs to during recovery?
 
 ### Failover
 
